@@ -60,4 +60,3 @@ This Food Vision project demonstrates the power of transfer learning and advance
 The journey from feature extraction to fine-tuning, coupled with techniques like mixed precision training and learning rate optimization, showcases the depth of consideration in model development. This project not only serves as a strong foundation for food recognition applications but also provides insights into the nuances of transfer learning in computer vision.
 
 #ComputerVision #DeepLearning #FoodAI #MachineLearning #TransferLearning
-![image](https://github.com/user-attachments/assets/0c1fb504-bf62-4307-a34e-218d0027e811)
