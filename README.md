@@ -9,7 +9,7 @@ Developed a state-of-the-art food recognition system using the Food-101 dataset,
 - 512px max side length, balancing detail and computational efficiency
 
 ## Transfer Learning Exploration
-Investigated multiple pre-trained architectures:
+Investigated multiple pre-trained architectures which are trained on Imagenet dataset of size 14,197,122:
 1. ResNet: Residual Networks, known for solving vanishing gradient problems
 2. EfficientNet: Optimized convolutional neural networks for improved accuracy and efficiency
 3. EfficientNet Feature Extraction: Leveraging pre-trained weights for our specific task
